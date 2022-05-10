@@ -7,7 +7,7 @@
   - 數學模型分析基本面
   - 針對各股對象做出數據特徵
   - Recommendation
-  - GUI (LINE B)
+  - GUI (LINE Bot)
 
 ## Recommendation Systems
 - Content - Based Filtering (結合使用者評價與商品屬性, 推薦user偏好商品)優勢：
