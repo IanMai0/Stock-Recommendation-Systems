@@ -7,7 +7,7 @@
   - 數學模型分析基本面
   - 針對各股對象做出數據特徵
   - Recommendation
-  - LINE Bot GUI
+  - GUI (LINE B)
 
 - Content - Based Filtering (結合使用者評價與商品屬性, 推薦user偏好商品)優勢：
   - 用戶之間獨立性(User Independence), 較不易受用戶對item作弊影響.
